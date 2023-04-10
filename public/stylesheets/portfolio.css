@@ -349,7 +349,7 @@ h3 {
 .resume .func .skills-soft ul li span {
   top: 40%;
 }
-.resume .func .interests-items {
+.resume .func .software-items {
   box-sizing: border-box;
   padding: 15px;
   width: 100%;
@@ -358,19 +358,19 @@ h3 {
   display: flex;
   justify-content: space-between;
 }
-.resume .func .interests-items div {
+.resume .func .software-items div {
   display: inline-block;
   width: 80px;
   height: 80px;
 }
-.resume .func .interests-items div:hover i {
+.resume .func .software-items div:hover i {
   transform: scale(1.2);
 }
-.resume .func .interests-items div:hover span {
+.resume .func .software-items div:hover span {
   color: #40B5AD;
   transition-duration: 0.3s;
 }
-.resume .func .interests-items div i {
+.resume .func .software-items div i {
   font-size: 45px;
   width: 60px;
   height: 60px;
@@ -378,16 +378,16 @@ h3 {
   color: #606060;
   transition-duration: 0.3s;
 }
-.resume .func .interests-items div i.guitar {
+.resume .func .software-items div i.guitar {
   display: block;
   margin: 0 auto;
 }
-.resume .func .interests-items div i.guitar svg {
+.resume .func .software-items div i.guitar svg {
   width: 50px;
   height: 50px;
   margin-top: 5px;
   fill: #606060;
 }
-.resume .func .interests-items div span {
+.resume .func .software-items div span {
   display: block;
 }
